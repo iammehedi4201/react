@@ -1,0 +1,27 @@
+.container{
+  
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+
+}
+
+section{
+
+    background-color: #a28089;
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid #a28089;
+    border-radius: 5px;
+    
+}
+
+button{
+
+     padding: 10px;
+     border: 2px solid crimson;
+     background-color: crimson;
+     color: aliceblue;
+     cursor: pointer;
+     margin: 5px;
+}

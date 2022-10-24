@@ -1,0 +1,33 @@
+.Container{
+
+    width: 100%;
+    height: 100%;
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+    gap: 35px;
+  
+}
+.product-section{
+
+    width: 100%;
+    height: 100%;
+    border: 2px solid black;
+}
+.cart-section{
+
+    width: 100%;
+    height: 10%;
+    padding: 15px;
+    border: 2px solid  seagreen;
+    background-color: rgba(255,153,0,0.3);
+
+}
+.container-of-product{
+
+    width: 100%;
+    height: 99%;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap:35px;
+
+}

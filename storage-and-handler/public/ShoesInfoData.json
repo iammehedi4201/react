@@ -1,0 +1,44 @@
+[
+    {
+      "id": "6339abd203ec721e8eddca8b",
+      "Color": "brown",
+      "name": "NIKE AirJOdan 2022 EDITION",
+      "Price": 4974,
+      "company": "NIkE"
+    },
+    {
+      "id": "6339abd218b548a769fbbe56",
+      "Color": "Green",
+      "name": "NIKE AirJOdan 2021 EDITION",
+      "Price": 4829,
+      "company": "NIkE"
+    },
+    {
+      "id": "6339abd2611e85344f44fb31",
+      "Color": "green",
+      "name": "NIKE AirJOdan 2020 EDITION",
+      "Price": 4180,
+      "company": "NIkE"
+    },
+    {
+      "id": "6339abd2aef05cb3e734d4bc",
+      "Color": "RED",
+      "name": "NIKE AirJOdan 2019 EDITION",
+      "Price": 2449,
+      "company": "NIkE"
+    },
+    {
+      "id": "6339abd2bab0c1f40fb7d27d",
+      "Color": "Green",
+      "name": "NIKE AirJOdan 2018 EDITION",
+      "Price": 2322,
+      "company": "NIkE"
+    },
+    {
+      "id": "6339abd22fe231197ce62542",
+      "Color": "brown",
+      "name": "NIKE AirJOdan 2017 EDITION",
+      "Price": 2896,
+      "company": "NIkE"
+    }
+  ]

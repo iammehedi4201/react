@@ -1,0 +1,13 @@
+.photo-section{
+
+     border: 2px solid crimson;
+     padding: 15px;
+     margin: 20px;
+     background-color: seagreen
+}
+
+.photo-section-img{
+
+    width: 50%;
+
+}

@@ -1,0 +1,15 @@
+.navbar{
+
+    background-color: #1C2B35;
+    padding-left: 112px;
+    padding-right:112px;
+
+}
+
+.nav-link{
+
+    color: white;
+}
+.nav-link:focus, .nav-link:hover {
+    color:crimson;
+}
